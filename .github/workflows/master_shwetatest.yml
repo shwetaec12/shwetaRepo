@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'shwetatest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D839215CE63410DB2A3B3E5F2CDEE85 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F76602B920B14979B41101A48F2F4FA4 }}
           package: .
